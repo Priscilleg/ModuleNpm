@@ -1,0 +1,19 @@
+{
+  "name": "chaine",
+  "version": "1.0.0",
+  "description": "a new Module",
+  "main": "SearchChaine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priscilleg/ModuleNpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priscilleg/ModuleNpm/issues"
+  },
+  "homepage": "https://github.com/Priscilleg/ModuleNpm#readme"
+}
